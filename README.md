@@ -1,8 +1,6 @@
 # ErnieViewTool
 
-View methods for Rails
-
-Prepares html code snippets to add to Rails applications
+> View methods for Rails, Prepares html code snippets to add to Rails applications
 
 ## Installation
 
